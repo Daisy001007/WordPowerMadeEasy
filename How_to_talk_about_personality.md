@@ -16,7 +16,7 @@
 	- altruism				:利他主义
 	- altruistic			:	利他主义的
 	- alternate             :  		other possible 替代物，skip one and take other 间隔，轮换
-	- alternative            :		other choice   替代物            
+	- alternative            :		other choice   替代物XXXXXX            
 	- altercation            :		a verbal dispute 争吵
 	- alteration              :		a change 改变
 	- alter ego               	:	另一个我
